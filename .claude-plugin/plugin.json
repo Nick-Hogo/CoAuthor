@@ -1,0 +1,6 @@
+{
+  "name": "coauthor",
+  "version": "0.1.0",
+  "description": "LaTeX academic paper writing assistant - structure organization, table generation, rejection risk assessment, style presets, and citation verification",
+  "keywords": ["latex", "academic", "paper", "writing", "citation", "table"]
+}
