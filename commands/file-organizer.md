@@ -1,5 +1,5 @@
 ---
-description: Initialize or reorganize LaTeX project structure
+description: Analyze and reorganize LaTeX project file structure - standardize layout, auto-create missing directories, rename and relocate existing files
 argument-hint: [project-path]
 allowed-tools: Read, Write, Edit, Bash(mkdir:*, mv:*, cp:*, ls:*, find:*)
 ---
